@@ -1,3 +1,4 @@
+[![alt text](star_snowflake-2.jpg)](star_snowflake-2.jpg)
 ## Star Schema (one wide `dim_product`)
 
 ### Advantages
