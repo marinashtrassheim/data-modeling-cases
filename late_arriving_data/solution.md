@@ -1,5 +1,7 @@
 ## How we handle late-arriving data
 
+[![alt text](late_data.png)](late_data.png)
+
 When late transactions arrive (e.g. last week's data lands today), we
 **recompute only the affected dates** instead of rebuilding the whole history.
 
